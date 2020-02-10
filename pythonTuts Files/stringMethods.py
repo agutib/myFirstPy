@@ -26,3 +26,7 @@ print (course.title())
 print (course.find("s"))
 # .replace()
 print (course.replace("Beginners" , "Intermediate"))
+# using in method if True
+print("Python" in course)
+# using in method if False
+print("Jython" in course)
