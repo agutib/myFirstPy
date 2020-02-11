@@ -9,22 +9,23 @@
 # Strings - Done
 # Formatted Strings - Done
 # String Methods - Done
-# Arithmetic Operations - 
-# Operator Precedence
-# Math Functions
-# If Statements
-# Logical Operators
-# Comparison Operators
-# Weight Converter Program 
-# While Loops
-# Building a Guessing Game
-# Building the Car Game
-# For Loops
-# Nested Loops
-# Lists
-# 2D Lists
-# My Complete Python Course 
-# List Methods
+# Arithmetic Operations -  Done
+# Operator Precedence -
+# Math Functions -
+# If Statements -
+# Logical Operators -
+# Comparison Operators -
+# Weight Converter Program -
+# While Loops -
+# Building a Guessing Game -
+# Building the Car Game -
+# For Loops -
+# Nested Loops -
+# Arrays -
+# Lists -
+# 2D Lists -
+# My Complete Python Course -
+# List Methods -
 # Tuples
 # Unpacking
 # Dictionaries
@@ -45,5 +46,5 @@
 # Working with Directories 
 # Pypi and Pip
 # Project 1: Automation with Python
-# Project 2: Machine Learning with Python 
-# Project 3: Building a Website with Django 
+# Project 2: Machine Learning with Python -
+# Project 3: Building a Website with Django -
