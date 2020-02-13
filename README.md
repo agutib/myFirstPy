@@ -11,8 +11,8 @@
 # Formatted Strings - Done
 # String Methods - Done
 # Arithmetic Operations -  Done
-# Operator Precedence -
-# Math Functions -
+# Operator Precedence - Done
+# Math Functions - Done
 # If Statements -
 # Logical Operators -
 # Comparison Operators -
